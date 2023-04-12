@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Exercicio2/obj/Debug
+/Exercicio2/.vs/Exercicio2/FileContentIndex
+/Exercicio2/Properties
+*.suo
+/Exercicio2/App.config
