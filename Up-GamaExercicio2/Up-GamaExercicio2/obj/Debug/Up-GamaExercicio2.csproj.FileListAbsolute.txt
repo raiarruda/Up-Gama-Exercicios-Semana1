@@ -1,0 +1,8 @@
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\obj\Debug\Up-GamaExercicio2.csproj.AssemblyReference.cache
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\obj\Debug\Up-GamaExercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\obj\Debug\Up-GamaExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\bin\Debug\Up-GamaExercicio2.exe.config
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\bin\Debug\Up-GamaExercicio2.exe
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\bin\Debug\Up-GamaExercicio2.pdb
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\obj\Debug\Up-GamaExercicio2.exe
+C:\Users\raissa.arruda\source\repos\Up-GamaExercicio2\Up-GamaExercicio2\obj\Debug\Up-GamaExercicio2.pdb
